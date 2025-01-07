@@ -10,7 +10,7 @@ public class AverageOfThreeNumbers{
 		int c = sc.nextInt();
 		
 
-		System.out.print("Permeter of rectangle is :- " + ( a+b+c) / 3 );
+		System.out.print("Average of three numbers is :- " + ( a+b+c) / 3 );
 
 	}
 	
